@@ -438,3 +438,5 @@ bpwatch start anvil_appdir_commit
 bpwatch stop anvil_appdir_commit
 
 bpwatch stop compile
+
+echo -e '\033[00;32m#winning\033[0m'
